@@ -1,2 +1,4 @@
 this is the new file to practise on git
 Version 3.0
+
+now version 1
